@@ -227,5 +227,7 @@ Welcome to open source, DevSpace builder 🚀
 - A **CONTRIBUTING.md**
 - A **Code of Conduct**
 - Or auto profile generator format
-::contentReference[oaicite:0]{index=0}
+
 ```
+
+### Created by Christian Emenike, Lead Coordinator, DevSpace Community
