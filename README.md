@@ -1,8 +1,3 @@
-Yesss 🙌 every good open-source project needs a solid README — this is what makes beginners feel confident contributing.
-
-Here’s a clean, beginner-friendly **README.md** you can use:
-
----
 
 ```markdown
 # 🚀 DevSpace Open Source Project for Beginners
