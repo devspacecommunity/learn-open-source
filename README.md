@@ -2,7 +2,7 @@
 ```markdown
 # 🚀 DevSpace Open Source Project for Beginners
 
-Welcome to the **DevSpace Open Source Project for Beginners** 🎉  
+Welcome to the *DevSpace Open Source Project for Beginners* 🎉  
 This project is designed to help **new developers** take their **first step into open source** by contributing to a real project in a safe, supportive community.
 
 ---
