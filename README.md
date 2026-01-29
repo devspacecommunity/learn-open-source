@@ -45,8 +45,7 @@ No experience required ❤️
 
 ## 📁 Project Structure
 
-```
-
+```'yaml
 project-folder/
 │
 ├── index.html      → Main community page
@@ -149,16 +148,19 @@ Replace the placeholders with your real info.
 
 You can use a free avatar image from:
 👉 [https://pravatar.cc/](https://pravatar.cc/)
+or visit 👉 [https://getavataaars.com/](https://getavataaars.com/) to generate your own
 
 Example:
 
 ```html
-<img src="https://i.pravatar.cc/100?img=15">
+<img src="https://i.pravatar.cc/100?img=15"> or include it in the image folder
+<img src="/image/myavatar.png">
 ```
 
 ---
 
 ### 7️⃣ Save and Commit
+Note: Make sure you understand how to use Git and Github (You can redo the 10 Days Git/Github Challenge
 
 ```bash
 git add .
@@ -221,9 +223,6 @@ Welcome to open source, DevSpace builder 🚀
 
 ```
 
----
-
-If you want, next I can make:
 
 - A **CONTRIBUTING.md**
 - A **Code of Conduct**
