@@ -163,3 +163,13 @@ header {
     height: 50vh;
   }
 }
+
+.key-skills {
+  display: block;
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+  font-weight: bold;
+  color: #f38634;
+  
+}

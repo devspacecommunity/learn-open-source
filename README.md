@@ -44,7 +44,7 @@ No experience required ❤️
 
 ## 📁 Project Structure
 
-```'yaml
+```yaml
 project-folder/
 │
 ├── index.html       → Main community page
@@ -53,9 +53,9 @@ project-folder/
 └── assets/images    → Where to place your avatar
 
 ```
-````
 
-All contributor profiles are added directly inside **`index.html`**
+
+All contributor profiles are added directly inside **index.html**
 
 ---
 
